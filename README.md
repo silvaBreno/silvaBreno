@@ -10,7 +10,7 @@
 <div>
     <a href="https://github.com/silvaBreno">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=silvaBreno&show_icons=true&theme=dracula&include_all_commits=false&repo=github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaBreno&layout=compact&langs_count=16&theme=dracula"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaBreno&layout=compact&langs_count=15&theme=dracula"> 
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Breno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />              
