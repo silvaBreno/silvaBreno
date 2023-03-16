@@ -1,7 +1,7 @@
 ### Olá, eu sou Breno Silva! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
 
   ##
-- 🌱 I’m currently learning Java and Oracle SQL
+- 🌱 I’m currently learning Java and Oracle SQL.
 
 - 🔭 I’m currently working on Symrise Flavors and Fragrances in R&D as Cosmetic Researcher.
 
